@@ -1,9 +1,15 @@
-# ![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 # Empress UAE: Regional Customizations at Your Fingertips
 
 Empress UAE is your comprehensive solution for region-specific adaptations in the United Arab Emirates (UAE). Tailored to meet the needs of businesses operating within the UAE, this tool facilitates seamless integration of your operations with a regionally customized ERP software.
 
 [**Explore the Docs**](https://grow.empress.eco/) | [**Report a Bug**](https://github.com/empress-eco/united_arab_emirites/issues) | [**Request a Feature**](https://github.com/empress-eco/united_arab_emirites/issues)
+
+</div>
 
 ## About The Project
 
